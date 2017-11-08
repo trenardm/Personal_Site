@@ -1,0 +1,62 @@
+/*Custom Fonts*/
+@font-face{
+	font-family:""
+}
+
+#typestudy{
+	font-size:35px;
+	color: #ff00;
+}
+/*hero style*/
+#hero {
+	background-image: url(../img/backgrd%20laptop.png);
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+#transparent background {
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity="20%";
+	width: 100%;
+}
+
+#logos {
+	font-family: "logotype";
+	font-size:15px;
+	position: fixed;
+}
+
+#info {
+	font-family:"cabin";
+	font-weight: normal;
+	font-style: normal;
+}
+
+nav{
+	position:absolute;
+}
+
+nav > ul> li {
+	display: inline-block;
+	vertical-align: top center;
+	width: 200px;
+}
+
+#form{
+	font-size:35px;
+	color:darkgoldenrod;
+	font-family: arial;
+	font-weight: 300;
+	font-style:normal;
+	text-decoration: underline;
+	line-height:3em;
+	letter-spacing: 25px;
+}
+
+#contact{
+	background-color: #ff00;
+	border: 
+}
